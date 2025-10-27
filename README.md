@@ -3,10 +3,25 @@
 
 Hey there 👽 If you're reading this. You're awesome ! 🖤
 
-<h3 align="left">❓ About Me: </h2>
-* Currently seeking employment and PhD opportunities.
-* Data Scientist, ML Engineer and builder with an inclination towards research, driven by curiosity and a deep love for long arcs of exploration. 
-* Thrives in R&D and Agile environments - where one can experiment, innovate, optimize, and follow ideas through to their most meaningful applications.
+<h3 align="left">🤠 About Me: </h2>
+
+<ul>
+<li>🇲🇾 +60</li>
+<li>Currently seeking employment 👨‍💼 and PhD opportunities 🎓.</li>
+<li>Seeking Data Scientist/ML Engineer/AI Engineer roles 🔍.</li>
+<li><strong>Interested in the following Research Areas:</strong> 
+  <ul>
+  <li>Deep Learning 🧠</li>
+  <li>Generative AI 🕸️</li>
+  <li>Computer Vision 👀</li>
+  <li>3D & Augmented Reality 🥽</li>
+  <li>Trustworthy AI Systems 🤝</li>
+  <li>Human-AI Interaction & Domain-specific ML Applications in Healthcare ⚕️, Environmental Science 🌲and in Creative Industries 🎨</li>
+  </ul>
+  </li>
+<li>Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>
+<li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas through to their most meaningful applications 🍀.</li>
+</ul> 
 
 <br>
 

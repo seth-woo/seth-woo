@@ -4,6 +4,9 @@
 Hey there 👽 If you're reading this. You're awesome ! 🖤
 
 <h3 align="left">❓ About Me: </h2>
+* Currently seeking employment and PhD opportunities.
+* Data Scientist, ML Engineer and builder with an inclination towards research, driven by curiosity and a deep love for long arcs of exploration. 
+* Thrives in R&D and Agile environments - where one can experiment, innovate, optimize, and follow ideas through to their most meaningful applications.
 
 <br>
 

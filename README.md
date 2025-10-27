@@ -3,7 +3,13 @@
 
 Hey there 👽 If you're reading this. You're awesome ! 🖤
 
+<h3 align="left">❓ About Me: </h2>
+
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,pytorch,gcp,docker,kubernetes,git,gitlab,selenium,linux,html,css,latex)](https://skillicons.dev)
+
+<br>
 
 <table>
 <tr>

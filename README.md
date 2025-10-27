@@ -11,6 +11,10 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=woogamanga&theme=gotham&hide_border=true" alt="sethwoo's streak stats"/>
 </a>
 
+<a href="#sethwoo-title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woogamanga&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="sethwoo's top languages"/>
+</a>
+
 <h3 align="left">:jigsaw: Featured Projects/Learnings: </h2>
 
 <h3 align="left">:writing_hand: Publications: </h2>

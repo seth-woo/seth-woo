@@ -3,23 +3,16 @@
 
 Hey there 👽 If you're reading this. You're awesome ! 🖤
 
-<a href="#sethwoo-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=woogamanga&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="sethwoo's GitHub stats"/>
-</a>
-
-<br>
-
-<a href="#sethwoo-title">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=woogamanga&theme=gotham&hide_border=true" alt="sethwoo's streak stats"/>
-</a>
-
-<br>
-
-<a href="#sethwoo-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woogamanga&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="sethwoo's top languages"/>
-</a>
-
-<br>
+<table>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=woogamanga&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="sethwoo's GitHub Stats"/>  
+  </td>
+  <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=woogamanga&theme=gotham&hide_border=true" title="sethwoo's Github Streak"/> 
+  </td>
+</tr>
+</table>
 
 <h3 align="left">:jigsaw: Featured Projects/Learnings: </h2>
 

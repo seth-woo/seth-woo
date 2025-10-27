@@ -1,6 +1,8 @@
 <h1 align="left" id="sethwoo-title">:wave: Seth Woo</h1>
 <h3 align="left"></h3>
 
+If you're reading this. You're awesome !
+
 <h3 align="left">:jigsaw: Featured Projects/Learnings: </h2>
 
 <h3 align="left">:writing_hand: Publications: </h2>

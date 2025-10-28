@@ -35,7 +35,7 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
     <img src="https://github-readme-stats.vercel.app/api?username=woogamanga&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="sethwoo's GitHub Stats"/>  
   </td>
   <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=woogamanga&theme=gotham&hide_border=true" title="sethwoo's Github Streak"/> 
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=woogamanga&theme=gotham&hide_border=true" alt="sethwoo's Github Streak"/> 
   </td>
 </tr>
 </table>

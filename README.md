@@ -11,12 +11,15 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
 <li>Seeking Junior AI/ML Research roles for NLP and Vision AI 🔍.</li>
 <li><strong>Interested in the following Research Areas:</strong> 
   <ul>
-  <li>Deep Learning 🧠</li>
-  <li>Generative AI 🕸️</li>
-  <li>Computer Vision 👀</li>
-  <li>3D & Augmented Reality 🥽</li>
-  <li>Trustworthy AI Systems 🤝</li>
-  <li>Human-AI Interaction & Domain-specific ML Applications in Healthcare ⚕️, Environmental Science 🌲and in Creative Industries 🎨</li>
+  <li>Generative Models</li>
+  <li>Post-Training of Foundation Models</li>
+  <li>Design & Optimization of Multimodal Deep Learning Pipelines</li>
+  <li>Computer Vision</li>
+  <li>Self-Learning AI Systems</li>
+  <li>Edge & Pseudo-Edge AI</li>
+  <li>Digital Twins & Virtualization</li>
+  <li>Trustworthy AI Systems</li>
+  <li>Human-AI Interaction & Applications in Healthcare, Mobility, Sustainability & in Creative Industries</li>
   </ul>
   </li>
 <li>Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>

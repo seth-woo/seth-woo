@@ -8,7 +8,7 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
 <ul>
 <li>🇲🇾 +60</li>
 <li>Currently seeking employment 👨‍💼 and PhD opportunities 🎓.</li>
-<li>Seeking Data Scientist/ML Engineer/AI Engineer roles 🔍.</li>
+<li>Seeking Junior AI/ML Research roles for NLP and Vision AI 🔍.</li>
 <li><strong>Interested in the following Research Areas:</strong> 
   <ul>
   <li>Deep Learning 🧠</li>

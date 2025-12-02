@@ -24,7 +24,7 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
   </ul>
   </li>
 <li>Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>
-<li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas through to their most meaningful applications 🍀.</li>
+<li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li>
 </ul> 
 
 <br>

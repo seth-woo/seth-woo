@@ -11,13 +11,13 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
 <li><strong>Interested in the following Research Areas:</strong> 
   <ul>
   <li>Generative Models</li>
-  <li>Post-Training of Foundation Models</li>
+  <li>Large Language Models (LLMs)</li>
+  <li>Post-Training of LLMs</li>
   <li>Design & Optimization of Multimodal Deep Learning Pipelines</li>
   <li>Computer Vision</li>
-  <li>Self-Learning AI Systems</li>
-  <li>Edge & Pseudo-Edge AI</li>
+  <li>Edge AI</li>
   <li>Digital Twins & Virtualization</li>
-  <li>Trustworthy AI Systems</li>
+  <li>Trustworthy AI</li>
   <li>Human-AI Interaction & Applications in Healthcare, Mobility, Sustainability & in Creative Industries</li>
   <li>World Models</li>
   <li>Artificial General Intelligence (AGI)</li>

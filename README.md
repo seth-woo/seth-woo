@@ -7,8 +7,7 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
 
 <ul>
 <li>🇲🇾 +60</li>
-<li>Currently seeking employment 👨‍💼 and PhD opportunities 🎓.</li>
-<li>Seeking Junior AI/ML Research roles for NLP and Vision AI 🔍.</li>
+<li>Currently seeking employment 👨‍💼, mentorship 🙇‍♂️ and PhD opportunities 🎓.</li>
 <li><strong>Interested in the following Research Areas:</strong> 
   <ul>
   <li>Generative Models</li>
@@ -20,6 +19,8 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
   <li>Digital Twins & Virtualization</li>
   <li>Trustworthy AI Systems</li>
   <li>Human-AI Interaction & Applications in Healthcare, Mobility, Sustainability & in Creative Industries</li>
+  <li>World Models</li>
+  <li>Artificial General Intelligence (AGI)</li>
   </ul>
   </li>
 <li>Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>

@@ -29,7 +29,7 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,pytorch,gcp,docker,kubernetes,git,gitlab,selenium,linux,html,css,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,pytorch,gcp,docker,kubernetes,git,gitlab,linux,html,css,js,latex)](https://skillicons.dev)
 
 <!-- <br> -->
 

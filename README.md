@@ -1,4 +1,4 @@
-<h1 align="left" id="sethwoo-title">:wave: Seth Woo</h1>
+<h1 align="left" id="seth-woo-title">:wave: Seth Woo</h1>
 <h3 align="left"></h3>
 
 Hey there 👽 If you're reading this. You're awesome ! 🖤
@@ -30,20 +30,22 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
 
 [![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,pytorch,gcp,docker,kubernetes,git,gitlab,linux,html,css,js,latex)](https://skillicons.dev)
 
-<!-- <br> -->
+<br>
 
-<!-- <table>
+<table>
 <tr>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=seth-woo&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="sethwoo's GitHub Stats"/>  
+    <img src="https://github-readme-stats.vercel.app/api?username=seth-woo&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="seth-woo's GitHub Stats"/>  
   </td>
   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seth-woo&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="sethwoo's Top Languages"/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seth-woo&theme=transparent&show_icons=true&hide_border=true&layout=compact" alt="seth-woo's Top Languages"/> 
   </td>
 </tr>
-</table> -->
+</table>
 
 <h3 align="left">:jigsaw: Featured Projects/Learnings: </h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seth-woo&repo=mkrs-optional-memory&theme=transparent)](https://github.com/seth-woo/mkrs-optional-memory)
 
 <h3 align="left">:writing_hand: Publications: </h2>
 

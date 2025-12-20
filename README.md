@@ -46,6 +46,7 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
 <h3 align="left">:jigsaw: Featured Projects/Learnings: </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seth-woo&repo=mkrs-optional-memory&theme=transparent)](https://github.com/seth-woo/mkrs-optional-memory)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seth-woo&repo=seth-woo.github.io&theme=transparent)](https://github.com/seth-woo/seth-woo.github.io)
 
 <h3 align="left">:writing_hand: Publications: </h2>
 

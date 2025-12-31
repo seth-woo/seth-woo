@@ -48,8 +48,8 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seth-woo&repo=mkrs-optional-memory&theme=transparent)](https://github.com/seth-woo/mkrs-optional-memory)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seth-woo&repo=seth-woo.github.io&theme=transparent)](https://github.com/seth-woo/seth-woo.github.io) -->
 
-<h3 align="left">:writing_hand: Publications: </h2>
+<!-- <h3 align="left">:writing_hand: Publications: </h2>
 
 <h4 align="left"> 2023 </h3>
 
-- [(Journal) Cyberbullying Conceptualization, Characterization and Detection in Social Media – A Systematic Literature Review](https://journals.iium.edu.my/kict/index.php/IJPCC/article/view/374)
+- [(Journal) Cyberbullying Conceptualization, Characterization and Detection in Social Media – A Systematic Literature Review](https://journals.iium.edu.my/kict/index.php/IJPCC/article/view/374) -->

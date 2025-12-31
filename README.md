@@ -20,7 +20,7 @@
 <li>Currently seeking employment 👨‍💼, mentorship 🙇‍♂️ and PhD opportunities 🎓.</li>
 <li><strong>Interested in the following Research Areas:</strong> 
   <br>
-  Generative Models, Large Language Models, Post-Training of LLMs, Design & Optimization of Multimodal Deep Learning Pipelines,
+  Generative Models, Large Language Models, Post-Training of LLMs, Design & Optimization of Multimodal and Multi-model Deep Learning Pipelines,
   <br>
   Computer Vision, Edge AI, Digital Twins, Simulations & Virtualization, Trustworthy AI, Human-AI Interaction & Applications in
   <br>

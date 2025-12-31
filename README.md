@@ -7,7 +7,11 @@
   <img src="https://github.com/user-attachments/assets/c53448d3-478e-47f4-8881-1df406e2da42" width="300"/>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,pytorch,gcp,docker,kubernetes,git,gitlab,linux,html,css,js,latex)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,pytorch,gcp,docker,kubernetes,git,gitlab,linux,html,css,js,latex&theme=light" />
+  </a>
+</p>
 
 <h3 align="left">👽 About Me: </h3>
 
@@ -37,12 +41,6 @@
 <li>Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>
 <li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li>
 </ul> 
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,pytorch,gcp,docker,kubernetes,git,gitlab,linux,html,css,js,latex)](https://skillicons.dev)
-
-<br>
 
 <!-- <table>
 <tr>

@@ -1,6 +1,8 @@
 <!-- <h1 align="left" id="seth-woo-title">:wave: Seth Woo </h1>
 <h3 align="left"></h3> -->
 
+![Typing Coding GIF by Sugartown](https://github.com/user-attachments/assets/3120f829-d175-43b2-a4dc-8fe4135b572d)
+
 Hey there :wave: If you're reading this. You're awesome ! 🖤
 
 <h3 align="left">👽 About Me: </h2>

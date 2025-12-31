@@ -1,15 +1,21 @@
-<h1 align="left" id="seth-woo-title">:wave: Seth Woo</h1>
-<h3 align="left"></h3>
+<!-- <h1 align="left" id="seth-woo-title">:wave: Seth Woo </h1>
+<h3 align="left"></h3> -->
 
-Hey there 👽 If you're reading this. You're awesome ! 🖤
+Hey there :wave: If you're reading this. You're awesome ! 🖤
 
-<h3 align="left">🤠 About Me: </h2>
+<h3 align="left">👽 About Me: </h2>
 
 <ul>
 <li>🇲🇾 +60</li>
 <li>Currently seeking employment 👨‍💼, mentorship 🙇‍♂️ and PhD opportunities 🎓.</li>
 <li><strong>Interested in the following Research Areas:</strong> 
-  <ul>
+  <br>
+  Generative Models, Large Language Models, Post-Training of LLMs, Design & Optimization of Multimodal Deep Learning Pipelines,
+  <br>
+  Computer Vision, Edge AI, Digital Twins, Simulations & Virtualization, Trustworthy AI, Human-AI Interaction & Applications in
+  <br>
+  Healthcare, Mobility, Sustainability & in Creative Industries, World Models and pathways towards Artificial General Intelligence (AGI)
+  <!-- <ul>
   <li>Generative Models</li>
   <li>Large Language Models (LLMs)</li>
   <li>Post-Training of LLMs</li>
@@ -20,7 +26,7 @@ Hey there 👽 If you're reading this. You're awesome ! 🖤
   <li>Trustworthy AI</li>
   <li>Human-AI Interaction & Applications in Healthcare, Mobility, Sustainability & in Creative Industries</li>
   <li>World Models and pathways toward Artificial General Intelligence (AGI)</li>
-  </ul>
+  </ul> -->
   </li>
 <li>Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>
 <li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li>

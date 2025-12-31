@@ -1,11 +1,13 @@
 <!-- <h1 align="left" id="seth-woo-title">:wave: Seth Woo </h1>
 <h3 align="left"></h3> -->
 
-<img align="right" src="https://github.com/user-attachments/assets/c53448d3-478e-47f4-8881-1df406e2da42" width="300"/>
+<h3 align="center" >Hey there :wave: If you're reading this. You're awesome ! 🖤</h3>
 
-Hey there :wave: If you're reading this. You're awesome ! 🖤
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c53448d3-478e-47f4-8881-1df406e2da42" width="300"/>
+</p>
 
-<h3 align="left">👽 About Me: </h2>
+<h3 align="left">👽 About Me: </h3>
 
 <ul>
 <li>🇲🇾 +60</li>

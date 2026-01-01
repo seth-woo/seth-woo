@@ -1,6 +1,3 @@
-<!-- <h1 align="left" id="seth-woo-title">:wave: Seth Woo </h1>
-<h3 align="left"></h3> -->
-
 <h3 align="center" >Hey there :wave: If you're reading this. You're awesome ! 🖤</h3>
 
 <br>
@@ -35,8 +32,6 @@
 <li>Currently seeking employment 👨‍💼, mentorship 🙇‍♂️ and PhD opportunities 🎓.</li>
 <li>If any of the above ⬆️ or below ⬇️ interests you 😸, or you are pursuing similar goals 👷‍♂️, I’d love to chat ☕. Let’s connect ! ❤️</li>
 </ul>
-
-Test
 
 <br>
 

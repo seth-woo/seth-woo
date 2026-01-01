@@ -18,7 +18,7 @@
 <ul>
 <li>🇲🇾 +60. Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>
 <li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li>
-<li><strong>Interested in the following Research Areas:</strong> 
+<li><strong>Interested in the following Research Areas 🔎:</strong> 
   <br>
   Generative Models, Large Language Models, Post-Training of LLMs, Design & Optimization of Multimodal and Multi-model
   <br>

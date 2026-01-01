@@ -3,9 +3,13 @@
 
 <h3 align="center" >Hey there :wave: If you're reading this. You're awesome ! 🖤</h3>
 
+<br>
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c53448d3-478e-47f4-8881-1df406e2da42" width="300"/>
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">

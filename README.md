@@ -16,8 +16,8 @@
 <h3 align="left">👽 About Me: </h3>
 
 <ul>
-<li>🇲🇾 +60</li>
-<li>Currently seeking employment 👨‍💼, mentorship 🙇‍♂️ and PhD opportunities 🎓.</li>
+<li>🇲🇾 +60. Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>
+<li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li>
 <li><strong>Interested in the following Research Areas:</strong> 
   <br>
   Generative Models, Large Language Models, Post-Training of LLMs, Design & Optimization of Multimodal and Multi-model
@@ -27,21 +27,9 @@
   Interaction & Applications in Healthcare, Mobility, Sustainability & in Creative Industries, World Models and pathways toward
   <br>
   Artificial General Intelligence (AGI)
-  <!-- <ul>
-  <li>Generative Models</li>
-  <li>Large Language Models (LLMs)</li>
-  <li>Post-Training of LLMs</li>
-  <li>Design & Optimization of Multimodal Deep Learning Pipelines</li>
-  <li>Computer Vision</li>
-  <li>Edge AI</li>
-  <li>Digital Twins, Simulations & Virtualization</li>
-  <li>Trustworthy AI</li>
-  <li>Human-AI Interaction & Applications in Healthcare, Mobility, Sustainability & in Creative Industries</li>
-  <li>World Models and pathways toward Artificial General Intelligence (AGI)</li>
-  </ul> -->
-  </li>
-<li>Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>
-<li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li>
+</li>
+<li>Currently seeking employment 👨‍💼, mentorship 🙇‍♂️ and PhD opportunities 🎓.</li>
+<li>If any of the above ⬆️ or below ⬇️ interests you 😸, or you are pursuing similar goals 👷‍♂️, I’d love to chat ☕. Let’s connect ! ❤️</li>
 </ul> 
 
 <!-- <table>

@@ -21,7 +21,7 @@
 <li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li>
 <li><strong>Interested in the following Research Areas 🔎:</strong> 
   <ul>
-    <li>Domain-Specific Data Science Resaarch (Learning Systems, Causal AI, Trustworthy AI) & Applications in Healthcare</li>
+    <li>Health Data Science Resaarch (Learning Systems, Causal AI, Data Multimodality/Heterogeneity, Trustworthy AI)</li>
     <li>Human-AI Interaction & Applications in Healthcare, Mobility, Sustainability and in Creative Industries</li>
     <li>Digital Twins, Simulations & Virtualizations for Domain-Specific Applications in Healthcare, Manufacturing and Transportation</li>
     <li>Design & Optimization of Multimodal and Multi-model Deep Learning Pipelines</li>

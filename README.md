@@ -20,14 +20,15 @@
 <li>🇲🇾 +60. Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>
 <li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li>
 <li><strong>Interested in the following Research Areas 🔎:</strong> 
-  <br>
-  Generative Models, Large Language Models, Post-Training of LLMs, Design & Optimization of Multimodal and Multi-model
-  <br>
-  Deep Learning Pipelines, Computer Vision, Edge AI, Digital Twins, Simulations & Virtualization, Trustworthy AI, Human-AI
-  <br>
-  Interaction & Applications in Healthcare, Mobility, Sustainability & in Creative Industries, World Models and pathways toward
-  <br>
-  Artificial General Intelligence (AGI)
+  <ul>
+    <li>Domain-Specific Data Science Resaarch (Learning Systems, Causal AI, Trustworthy AI) & Applications in Healthcare</li>
+    <li>Human-AI Interaction & Applications in Healthcare, Mobility, Sustainability and in Creative Industries</li>
+    <li>Digital Twins, Simulations & Virtualizations for Domain-Specific Applications in Healthcare, Manufacturing and Transportation</li>
+    <li>Design & Optimization of Multimodal and Multi-model Deep Learning Pipelines</li>
+    <li>Edge Computer Vision for Domain-Specific Applications in Healthcare, Autonomous Vehicles, Industrial Automation, Retail & Security</li>
+    <li>Generative Models & LLMs (Pre- and Post-Training)</li>
+    <li>World Models and pathways toward safe Artificial General Intelligence (AGI)</li>
+  </ul>
 </li>
 <li>Currently seeking employment 👨‍💼, mentorship 🙇‍♂️ and PhD opportunities 🎓.</li>
 <li>If any of the above ⬆️ or below ⬇️ interests you 😸, or you are pursuing similar goals 👷‍♂️, I’d love to chat ☕. Let’s connect ! ❤️</li>

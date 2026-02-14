@@ -18,7 +18,7 @@
  /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
  .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
 ```
-<h3 align="center">👽 About Me: </h3>
+<!-- <h3 align="center">👽 About Me: </h3> -->
 <ul>
 <li>🇲🇾 +60. Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>
 <li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li>
@@ -36,8 +36,6 @@
 <li>Currently seeking employment 👨‍💼, mentorship 🙇‍♂️ and PhD opportunities 🎓.</li>
 <li>If any of the above ⬆️ interests you 😸, or you are pursuing similar goals 👷‍♂️, I’d love to chat ☕. Let’s connect ! ❤️</li>
 </ul>
-
-<br>
 
 <p align="center">
   <a href="mailto:sethwoo555@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a><a

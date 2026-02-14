@@ -11,12 +11,12 @@
 </p> -->
 
 ```
-                                                                                ## #                                  # ##  
-                         ^                             ^                       # #                                      # #              
-      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^                                ## 
-  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^       ^    ^        ||__
- /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\     /|\  /|\      /__/.\
- .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\     /|\  /|\      | | O|
+                                                                                ## #                                  
+                         ^                             ^                       # #                                                    
+      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^                                 
+  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^       ^    ^   
+ /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\     /|\  /|\  
+ .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\     /|\  /|\ 
 ```
 <!-- <h3 align="center">👽 About Me: </h3> -->
 Just a guy with a strong inclination toward research 🧪, driven by curiosity 🤔 and a desire to turn ideas 💡 into meaningful, real-world applications 🍀. I enjoy experimenting at the intersection of theory 📚 and practice 🏗️, exploring how advanced models 🤖 and systems 🏭 can be designed 🎨, optimized 🐹, and deployed responsibly 🤝. 

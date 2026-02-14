@@ -1,4 +1,4 @@
-<h3 align="center" >Hey there :wave: If you're reading this. You're awesome ! 🖤</h3>
+<!-- <h3 align="center" >Hey there :wave: If you're reading this. You're awesome ! 🖤</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c53448d3-478e-47f4-8881-1df406e2da42" width="300"/>
@@ -8,8 +8,16 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,sklearn,tensorflow,pytorch,gcp,kubernetes,docker,git,gitlab,linux,html,css,js,latex&theme=dark" />
   </a>
-</p>
+</p> -->
 
+```
+                                                                                ## #
+                         ^                             ^                       # #                      
+      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^              
+  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^ 
+ /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
+ .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
+```
 <h3 align="center">👽 About Me: </h3>
 <ul>
 <li>🇲🇾 +60. Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>

@@ -1,12 +1,8 @@
 <h3 align="center" >Hey there :wave: If you're reading this. You're awesome ! 🖤</h3>
 
-<br>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c53448d3-478e-47f4-8881-1df406e2da42" width="300"/>
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,8 +10,7 @@
   </a>
 </p>
 
-<h3 align="left">👽 About Me: </h3>
-
+<h3 align="center">👽 About Me: </h3>
 <ul>
 <li>🇲🇾 +60. Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>
 <li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li>
@@ -31,7 +26,7 @@
   </ul>
 </li>
 <li>Currently seeking employment 👨‍💼, mentorship 🙇‍♂️ and PhD opportunities 🎓.</li>
-<li>If any of the above ⬆️ or below ⬇️ interests you 😸, or you are pursuing similar goals 👷‍♂️, I’d love to chat ☕. Let’s connect ! ❤️</li>
+<li>If any of the above ⬆️ interests you 😸, or you are pursuing similar goals 👷‍♂️, I’d love to chat ☕. Let’s connect ! ❤️</li>
 </ul>
 
 <br>

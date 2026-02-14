@@ -11,29 +11,29 @@
 </p> -->
 
 ```
-                                                                                ## #
-                         ^                             ^                       # #                      
-      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^              
-  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^ 
- /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
- .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
+                                                                                ## #                                  # ##  
+                         ^                             ^                       # #                                      # #              
+      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^                                ## 
+  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^       ^    ^        ||__
+ /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\     /|\  /|\      /__/.\
+ .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\     /|\  /|\      | | O|
 ```
 <!-- <h3 align="center">👽 About Me: </h3> -->
+Just a guy with a strong inclination toward research 🧪, driven by curiosity 🤔 and a desire to turn ideas 💡 into meaningful, real-world applications 🍀. I enjoy experimenting at the intersection of theory 📚 and practice 🏗️, exploring how advanced models 🤖 and systems 🏭 can be designed 🎨, optimized 🐹, and deployed responsibly 🤝. 
 <ul>
-<li>🇲🇾 +60. Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>
-<li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li>
+<!-- <li>🇲🇾 +60. Builder with an inclination towards research 🧪, curious 🤔 and loves long arcs of exploration ⛵.</li>
+<li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li> -->
 <li><strong>Interested in the following Research Areas 🔎:</strong> 
   <ul>
-    <li>Health Data Science Resaarch (Learning Systems, Causal AI, Data Multimodality/Heterogeneity, Trustworthy AI)</li>
-    <li>Human-AI Interaction & Applications in Healthcare, Mobility, Sustainability and in Creative Industries</li>
-    <li>Digital Twins, Simulations & Virtualizations for Domain-Specific Applications in Healthcare, Manufacturing and Transportation</li>
+    <li>Continual Learning under Low-Resource Settings for Non-Stationary, Non-i.i.d Data Streams</li>
+    <li>Human-AI Interaction & Applications in Healthcare, Mobility, Sustainability, Social Science and in Creative Industries</li>
+    <li>Digital Twins for Domain-Specific Applications in Healthcare, Manufacturing and Transportation</li>
     <li>Design & Optimization of Multimodal and Multi-model Deep Learning Pipelines</li>
-    <li>Edge Computer Vision for Domain-Specific Applications in Healthcare, Autonomous Vehicles, Industrial Automation, Retail & Security</li>
     <li>Generative Models & LLMs (Pre- and Post-Training)</li>
     <li>World Models and pathways toward safe Artificial General Intelligence (AGI)</li>
   </ul>
 </li>
-<li>Currently seeking employment 👨‍💼, mentorship 🙇‍♂️ and PhD opportunities 🎓.</li>
+<li>Currently seeking employment 👨‍💼, mentorship 🙇‍♂️ and PhD opportunities in Continual Learning 🎓.</li>
 <li>If any of the above ⬆️ interests you 😸, or you are pursuing similar goals 👷‍♂️, I’d love to chat ☕. Let’s connect ! ❤️</li>
 </ul>
 

@@ -37,7 +37,7 @@ Just a guy with a strong inclination toward research 🧪, driven by curiosity �
 <li>If any of the above ⬆️ interests you 😸, or you are pursuing similar goals 👷‍♂️, I’d love to chat ☕. Let’s connect ! ❤️</li>
 </ul>
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:sethwoo555@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a><a
   href="https://linkedin.com/in/sethwoo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a><a
   href="https://x.com/woogamanga"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a><a
@@ -46,7 +46,9 @@ Just a guy with a strong inclination toward research 🧪, driven by curiosity �
   href="https://reddit.com/user/woogamanga"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /></a><a
   href="https://tiktok.com/@sethwoo"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" /></a><a
   href="https://mastodon.social/@seth_woo"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white" /></a>
-</p>
+</p> -->
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sethwoo555@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sethwoo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/woogamanga) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/21.09_wh) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/484731835990147088) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/woogamanga) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sethwoo) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@seth_woo)
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->

@@ -25,7 +25,7 @@ Just a guy with a strong inclination toward research 🧪, driven by curiosity �
 <li>Thrives in R&D 💻 and Agile environments 📋 - where I can experiment 📈, innovate 💣, optimize 😈, and follow ideas 💡 through to their most meaningful applications 🍀.</li> -->
 <li><strong>Interested in the following Research Areas 🔎:</strong> 
   <ul>
-    <li>Continual Learning under Low-Resource Settings for Non-Stationary, Non-i.i.d Data Streams</li>
+    <li>Continual Learning under Distributed, Low-Resource Settings for Non-Stationary, Non-i.i.d Data Streams</li>
     <li>Human-AI Interaction & Applications in Healthcare, Mobility, Sustainability, Social Science and in Creative Industries</li>
     <li>Digital Twins for Domain-Specific Applications in Healthcare, Manufacturing and Transportation</li>
     <li>Design & Optimization of Multimodal and Multi-model Deep Learning Pipelines</li>
